@@ -1,5 +1,6 @@
 # TDC
 tdc for lab
 
-1. HPS
+The iongui used here was copied from ~/Tom/iongui_copy
+
 
