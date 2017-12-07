@@ -1,0 +1,330 @@
+LOG(2017-08-11T10:16:54.044461, 8332, 003622E8:): -------->>
+LOG(2017-08-11T10:16:54.046462, 8332, 003622E8:): Core session started on 2017-08-11T10:16:54.046462 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T10:16:54.046462, 8332, 003622E8:): Debug logging disabled
+LOG(2017-08-11T10:16:54.207471, 8332, 003622E8:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T10:16:54.207471, 8332, 003622E8:): Device Camera-1 set as default camera.
+LOG(2017-08-11T10:16:54.207471, 8332, 003622E8:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T10:16:55.205528, 8332, 003622E8:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T10:17:03.834021, 8332, 003622E8:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T10:17:03.834021, 8332, 003622E8:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T10:17:03.857023, 8332, 003622E8:): Device Camera-1 initialized.
+LOG(2017-08-11T10:17:03.857023, 8332, 003622E8:): Camera device set to Camera-1
+LOG(2017-08-11T10:49:38.600827, 6472, 00402008:): -------->>
+LOG(2017-08-11T10:49:38.625829, 6472, 00402008:): Core session started on 2017-08-11T10:49:38.625829 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T10:49:38.625829, 6472, 00402008:): Debug logging disabled
+LOG(2017-08-11T10:49:38.742835, 6472, 00402008:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T10:49:38.742835, 6472, 00402008:): Device Camera-1 set as default camera.
+LOG(2017-08-11T10:49:38.742835, 6472, 00402008:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T10:49:39.494878, 6472, 00402008:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T10:49:48.096370, 6472, 00402008:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T10:49:48.096370, 6472, 00402008:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T10:49:48.118371, 6472, 00402008:): Device Camera-1 initialized.
+LOG(2017-08-11T10:49:48.118371, 6472, 00402008:): Camera device set to Camera-1
+LOG(2017-08-11T10:52:05.242214, 6216, 002CEB40:): -------->>
+LOG(2017-08-11T10:52:05.244215, 6216, 002CEB40:): Core session started on 2017-08-11T10:52:05.244215 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T10:52:05.244215, 6216, 002CEB40:): Debug logging disabled
+LOG(2017-08-11T10:52:05.254215, 6216, 002CEB40:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T10:52:05.255215, 6216, 002CEB40:): Device Camera-1 set as default camera.
+LOG(2017-08-11T10:52:05.255215, 6216, 002CEB40:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T10:52:05.358221, 6216, 002CEB40:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T10:52:13.816705, 6216, 002CEB40:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T10:52:13.816705, 6216, 002CEB40:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T10:52:13.839706, 6216, 002CEB40:): Device Camera-1 initialized.
+LOG(2017-08-11T10:52:13.839706, 6216, 002CEB40:): Camera device set to Camera-1
+LOG(2017-08-11T16:33:43.001785, 8832, 002E08A0:): -------->>
+LOG(2017-08-11T16:33:43.003785, 8832, 002E08A0:): Core session started on 2017-08-11T16:33:43.003785 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T16:33:43.003785, 8832, 002E08A0:): Debug logging disabled
+LOG(2017-08-11T16:33:43.107791, 8832, 002E08A0:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T16:33:43.107791, 8832, 002E08A0:): Device Camera-1 set as default camera.
+LOG(2017-08-11T16:33:43.107791, 8832, 002E08A0:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T16:33:43.803831, 8832, 002E08A0:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T16:33:52.481327, 8832, 002E08A0:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T16:33:52.481327, 8832, 002E08A0:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T16:33:52.503328, 8832, 002E08A0:): Device Camera-1 initialized.
+LOG(2017-08-11T16:33:52.503328, 8832, 002E08A0:): Camera device set to Camera-1
+LOG(2017-08-11T16:35:15.761090, 6516, 0040C7E0:): -------->>
+LOG(2017-08-11T16:35:15.763090, 6516, 0040C7E0:): Core session started on 2017-08-11T16:35:15.763090 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T16:35:15.763090, 6516, 0040C7E0:): Debug logging disabled
+LOG(2017-08-11T16:35:15.768091, 6516, 0040C7E0:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T16:35:15.768091, 6516, 0040C7E0:): Device Camera-1 set as default camera.
+LOG(2017-08-11T16:35:15.768091, 6516, 0040C7E0:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T16:35:15.843095, 6516, 0040C7E0:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T16:35:24.373583, 6516, 0040C7E0:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T16:35:24.373583, 6516, 0040C7E0:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T16:35:24.395584, 6516, 0040C7E0:): Device Camera-1 initialized.
+LOG(2017-08-11T16:35:24.395584, 6516, 0040C7E0:): Camera device set to Camera-1
+LOG(2017-08-11T16:41:54.947922, 7880, 00391D00:): -------->>
+LOG(2017-08-11T16:41:54.949923, 7880, 00391D00:): Core session started on 2017-08-11T16:41:54.949923 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T16:41:54.949923, 7880, 00391D00:): Debug logging disabled
+LOG(2017-08-11T16:41:54.955923, 7880, 00391D00:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T16:41:54.955923, 7880, 00391D00:): Device Camera-1 set as default camera.
+LOG(2017-08-11T16:41:54.955923, 7880, 00391D00:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T16:41:55.059929, 7880, 00391D00:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T16:42:03.598417, 7880, 00391D00:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T16:42:03.598417, 7880, 00391D00:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T16:42:03.621418, 7880, 00391D00:): Device Camera-1 initialized.
+LOG(2017-08-11T16:42:03.621418, 7880, 00391D00:): Camera device set to Camera-1
+LOG(2017-08-11T17:14:44.355566, 7080, 0042EF70:): -------->>
+LOG(2017-08-11T17:14:44.357566, 7080, 0042EF70:): Core session started on 2017-08-11T17:14:44.357566 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T17:14:44.357566, 7080, 0042EF70:): Debug logging disabled
+LOG(2017-08-11T17:14:44.364567, 7080, 0042EF70:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T17:14:44.364567, 7080, 0042EF70:): Device Camera-1 set as default camera.
+LOG(2017-08-11T17:14:44.364567, 7080, 0042EF70:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T17:14:44.461572, 7080, 0042EF70:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T17:14:52.652041, 7080, 0042EF70:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T17:14:52.652041, 7080, 0042EF70:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T17:14:52.673042, 7080, 0042EF70:): Device Camera-1 initialized.
+LOG(2017-08-11T17:14:52.673042, 7080, 0042EF70:): Camera device set to Camera-1
+LOG(2017-08-11T17:42:09.577667, 8552, 00465BF0:): -------->>
+LOG(2017-08-11T17:42:09.581668, 8552, 00465BF0:): Core session started on 2017-08-11T17:42:09.581668 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T17:42:09.581668, 8552, 00465BF0:): Debug logging disabled
+LOG(2017-08-11T17:42:09.592668, 8552, 00465BF0:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T17:42:09.592668, 8552, 00465BF0:): Device Camera-1 set as default camera.
+LOG(2017-08-11T17:42:09.592668, 8552, 00465BF0:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T17:42:09.757678, 8552, 00465BF0:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T17:42:18.082154, 8552, 00465BF0:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T17:42:18.082154, 8552, 00465BF0:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T17:42:18.104155, 8552, 00465BF0:): Device Camera-1 initialized.
+LOG(2017-08-11T17:42:18.104155, 8552, 00465BF0:): Camera device set to Camera-1
+LOG(2017-08-11T18:02:14.673595, 7140, 003943C0:): -------->>
+LOG(2017-08-11T18:02:14.690596, 7140, 003943C0:): Core session started on 2017-08-11T18:02:14.690596 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T18:02:14.690596, 7140, 003943C0:): Debug logging disabled
+LOG(2017-08-11T18:02:14.800602, 7140, 003943C0:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T18:02:14.800602, 7140, 003943C0:): Device Camera-1 set as default camera.
+LOG(2017-08-11T18:02:14.800602, 7140, 003943C0:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T18:02:15.597648, 7140, 003943C0:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T18:02:23.885122, 7140, 003943C0:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T18:02:23.886122, 7140, 003943C0:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T18:02:23.911123, 7140, 003943C0:): Device Camera-1 initialized.
+LOG(2017-08-11T18:02:23.911123, 7140, 003943C0:): Camera device set to Camera-1
+LOG(2017-08-11T18:08:48.727134, 6552, 00365BF0:): -------->>
+LOG(2017-08-11T18:08:48.733134, 6552, 00365BF0:): Core session started on 2017-08-11T18:08:48.733134 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T18:08:48.733134, 6552, 00365BF0:): Debug logging disabled
+LOG(2017-08-11T18:08:48.752135, 6552, 00365BF0:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T18:08:48.752135, 6552, 00365BF0:): Device Camera-1 set as default camera.
+LOG(2017-08-11T18:08:48.752135, 6552, 00365BF0:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T18:08:48.931145, 6552, 00365BF0:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T18:08:57.274622, 6552, 00365BF0:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T18:08:57.274622, 6552, 00365BF0:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T18:08:57.300624, 6552, 00365BF0:): Device Camera-1 initialized.
+LOG(2017-08-11T18:08:57.300624, 6552, 00365BF0:): Camera device set to Camera-1
+LOG(2017-08-11T18:11:28.607278, 7872, 00485C10:): -------->>
+LOG(2017-08-11T18:11:28.611278, 7872, 00485C10:): Core session started on 2017-08-11T18:11:28.611278 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T18:11:28.611278, 7872, 00485C10:): Debug logging disabled
+LOG(2017-08-11T18:11:28.623279, 7872, 00485C10:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T18:11:28.623279, 7872, 00485C10:): Device Camera-1 set as default camera.
+LOG(2017-08-11T18:11:28.623279, 7872, 00485C10:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T18:11:28.788288, 7872, 00485C10:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T18:11:37.118765, 7872, 00485C10:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T18:11:37.118765, 7872, 00485C10:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T18:11:37.144766, 7872, 00485C10:): Device Camera-1 initialized.
+LOG(2017-08-11T18:11:37.144766, 7872, 00485C10:): Camera device set to Camera-1
+LOG(2017-08-11T18:13:46.798182, 4332, 00451188:): -------->>
+LOG(2017-08-11T18:13:46.803182, 4332, 00451188:): Core session started on 2017-08-11T18:13:46.803182 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T18:13:46.804183, 4332, 00451188:): Debug logging disabled
+LOG(2017-08-11T18:13:46.820183, 4332, 00451188:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T18:13:46.820183, 4332, 00451188:): Device Camera-1 set as default camera.
+LOG(2017-08-11T18:13:46.820183, 4332, 00451188:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T18:13:46.988193, 4332, 00451188:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T18:13:55.300669, 4332, 00451188:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T18:13:55.300669, 4332, 00451188:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T18:13:55.326670, 4332, 00451188:): Device Camera-1 initialized.
+LOG(2017-08-11T18:13:55.327670, 4332, 00451188:): Camera device set to Camera-1
+LOG(2017-08-11T18:44:29.762594, 8780, 00362B98:): -------->>
+LOG(2017-08-11T18:44:29.765594, 8780, 00362B98:): Core session started on 2017-08-11T18:44:29.765594 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T18:44:29.766594, 8780, 00362B98:): Debug logging disabled
+LOG(2017-08-11T18:44:29.777595, 8780, 00362B98:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T18:44:29.777595, 8780, 00362B98:): Device Camera-1 set as default camera.
+LOG(2017-08-11T18:44:29.777595, 8780, 00362B98:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T18:44:29.882601, 8780, 00362B98:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T18:44:38.093070, 8780, 00362B98:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T18:44:38.093070, 8780, 00362B98:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T18:44:38.117072, 8780, 00362B98:): Device Camera-1 initialized.
+LOG(2017-08-11T18:44:38.117072, 8780, 00362B98:): Camera device set to Camera-1
+LOG(2017-08-11T18:48:54.609742, 7196, 00332968:): -------->>
+LOG(2017-08-11T18:48:54.611742, 7196, 00332968:): Core session started on 2017-08-11T18:48:54.611742 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T18:48:54.611742, 7196, 00332968:): Debug logging disabled
+LOG(2017-08-11T18:48:54.617743, 7196, 00332968:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T18:48:54.617743, 7196, 00332968:): Device Camera-1 set as default camera.
+LOG(2017-08-11T18:48:54.617743, 7196, 00332968:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T18:48:54.708748, 7196, 00332968:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T18:49:02.983221, 7196, 00332968:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T18:49:02.983221, 7196, 00332968:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T18:49:03.005222, 7196, 00332968:): Device Camera-1 initialized.
+LOG(2017-08-11T18:49:03.005222, 7196, 00332968:): Camera device set to Camera-1
+LOG(2017-08-11T19:38:28.358831, 7296, 00442968:): -------->>
+LOG(2017-08-11T19:38:28.360831, 7296, 00442968:): Core session started on 2017-08-11T19:38:28.360831 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T19:38:28.360831, 7296, 00442968:): Debug logging disabled
+LOG(2017-08-11T19:38:28.560842, 7296, 00442968:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T19:38:28.560842, 7296, 00442968:): Device Camera-1 set as default camera.
+LOG(2017-08-11T19:38:28.560842, 7296, 00442968:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T19:38:29.889918, 7296, 00442968:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T19:38:38.209394, 7296, 00442968:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T19:38:38.209394, 7296, 00442968:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T19:38:38.230395, 7296, 00442968:): Device Camera-1 initialized.
+LOG(2017-08-11T19:38:38.230395, 7296, 00442968:): Camera device set to Camera-1
+LOG(2017-08-11T19:41:13.961303, 8624, 0030F9D8:): -------->>
+LOG(2017-08-11T19:41:13.963303, 8624, 0030F9D8:): Core session started on 2017-08-11T19:41:13.963303 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T19:41:13.963303, 8624, 0030F9D8:): Debug logging disabled
+LOG(2017-08-11T19:41:13.968303, 8624, 0030F9D8:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T19:41:13.968303, 8624, 0030F9D8:): Device Camera-1 set as default camera.
+LOG(2017-08-11T19:41:13.969303, 8624, 0030F9D8:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T19:41:14.052308, 8624, 0030F9D8:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T19:41:22.247777, 8624, 0030F9D8:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T19:41:22.247777, 8624, 0030F9D8:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T19:41:22.267778, 8624, 0030F9D8:): Device Camera-1 initialized.
+LOG(2017-08-11T19:41:22.268778, 8624, 0030F9D8:): Camera device set to Camera-1
+LOG(2017-08-11T19:43:30.006084, 2728, 003C2968:): -------->>
+LOG(2017-08-11T19:43:30.008084, 2728, 003C2968:): Core session started on 2017-08-11T19:43:30.008084 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T19:43:30.008084, 2728, 003C2968:): Debug logging disabled
+LOG(2017-08-11T19:43:30.015085, 2728, 003C2968:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T19:43:30.015085, 2728, 003C2968:): Device Camera-1 set as default camera.
+LOG(2017-08-11T19:43:30.015085, 2728, 003C2968:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T19:43:30.103090, 2728, 003C2968:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T19:43:38.347561, 2728, 003C2968:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T19:43:38.347561, 2728, 003C2968:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T19:43:38.369562, 2728, 003C2968:): Device Camera-1 initialized.
+LOG(2017-08-11T19:43:38.369562, 2728, 003C2968:): Camera device set to Camera-1
+LOG(2017-08-11T19:51:24.375216, 6992, 004AFD00:): -------->>
+LOG(2017-08-11T19:51:24.377217, 6992, 004AFD00:): Core session started on 2017-08-11T19:51:24.377217 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T19:51:24.377217, 6992, 004AFD00:): Debug logging disabled
+LOG(2017-08-11T19:51:24.383217, 6992, 004AFD00:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T19:51:24.383217, 6992, 004AFD00:): Device Camera-1 set as default camera.
+LOG(2017-08-11T19:51:24.383217, 6992, 004AFD00:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T19:51:24.474222, 6992, 004AFD00:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T19:51:32.702693, 6992, 004AFD00:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T19:51:32.702693, 6992, 004AFD00:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T19:51:32.723694, 6992, 004AFD00:): Device Camera-1 initialized.
+LOG(2017-08-11T19:51:32.723694, 6992, 004AFD00:): Camera device set to Camera-1
+LOG(2017-08-11T20:09:02.888760, 8392, 002FF9D8:): -------->>
+LOG(2017-08-11T20:09:02.890760, 8392, 002FF9D8:): Core session started on 2017-08-11T20:09:02.890760 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T20:09:02.890760, 8392, 002FF9D8:): Debug logging disabled
+LOG(2017-08-11T20:09:02.997766, 8392, 002FF9D8:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T20:09:02.997766, 8392, 002FF9D8:): Device Camera-1 set as default camera.
+LOG(2017-08-11T20:09:02.997766, 8392, 002FF9D8:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T20:09:03.771810, 8392, 002FF9D8:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T20:09:12.057284, 8392, 002FF9D8:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T20:09:12.057284, 8392, 002FF9D8:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T20:09:12.078286, 8392, 002FF9D8:): Device Camera-1 initialized.
+LOG(2017-08-11T20:09:12.078286, 8392, 002FF9D8:): Camera device set to Camera-1
+LOG(2017-08-11T20:13:54.304428, 1056, 003C2968:): -------->>
+LOG(2017-08-11T20:13:54.306428, 1056, 003C2968:): Core session started on 2017-08-11T20:13:54.306428 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T20:13:54.306428, 1056, 003C2968:): Debug logging disabled
+LOG(2017-08-11T20:13:54.312428, 1056, 003C2968:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T20:13:54.312428, 1056, 003C2968:): Device Camera-1 set as default camera.
+LOG(2017-08-11T20:13:54.312428, 1056, 003C2968:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T20:13:54.401434, 1056, 003C2968:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T20:14:02.161877, 1056, 003C2968:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T20:14:02.161877, 1056, 003C2968:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T20:14:02.176878, 1056, 003C2968:): Device Camera-1 initialized.
+LOG(2017-08-11T20:14:02.177878, 1056, 003C2968:): Camera device set to Camera-1
+LOG(2017-08-11T20:16:48.093368, 6436, 00472968:): -------->>
+LOG(2017-08-11T20:16:48.098368, 6436, 00472968:): Core session started on 2017-08-11T20:16:48.098368 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T20:16:48.098368, 6436, 00472968:): Debug logging disabled
+LOG(2017-08-11T20:16:48.110369, 6436, 00472968:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T20:16:48.110369, 6436, 00472968:): Device Camera-1 set as default camera.
+LOG(2017-08-11T20:16:48.111369, 6436, 00472968:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T20:16:48.223376, 6436, 00472968:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T20:16:56.761864, 6436, 00472968:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T20:16:56.761864, 6436, 00472968:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T20:16:56.783865, 6436, 00472968:): Device Camera-1 initialized.
+LOG(2017-08-11T20:16:56.784865, 6436, 00472968:): Camera device set to Camera-1
+LOG(2017-08-11T20:17:58.025368, 7932, 00402968:): -------->>
+LOG(2017-08-11T20:17:58.027368, 7932, 00402968:): Core session started on 2017-08-11T20:17:58.027368 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T20:17:58.027368, 7932, 00402968:): Debug logging disabled
+LOG(2017-08-11T20:17:58.034369, 7932, 00402968:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T20:17:58.034369, 7932, 00402968:): Device Camera-1 set as default camera.
+LOG(2017-08-11T20:17:58.034369, 7932, 00402968:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T20:17:58.128374, 7932, 00402968:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T20:18:06.588858, 7932, 00402968:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T20:18:06.588858, 7932, 00402968:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T20:18:06.610859, 7932, 00402968:): Device Camera-1 initialized.
+LOG(2017-08-11T20:18:06.610859, 7932, 00402968:): Camera device set to Camera-1
+LOG(2017-08-11T20:38:07.477545, 6516, 004629B0:): -------->>
+LOG(2017-08-11T20:38:07.479545, 6516, 004629B0:): Core session started on 2017-08-11T20:38:07.479545 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T20:38:07.479545, 6516, 004629B0:): Debug logging disabled
+LOG(2017-08-11T20:38:07.486545, 6516, 004629B0:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T20:38:07.486545, 6516, 004629B0:): Device Camera-1 set as default camera.
+LOG(2017-08-11T20:38:07.486545, 6516, 004629B0:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T20:38:07.587551, 6516, 004629B0:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T20:38:15.824022, 6516, 004629B0:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T20:38:15.824022, 6516, 004629B0:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T20:38:15.846023, 6516, 004629B0:): Device Camera-1 initialized.
+LOG(2017-08-11T20:38:15.846023, 6516, 004629B0:): Camera device set to Camera-1
+LOG(2017-08-11T20:40:21.633218, 2968, 00312428:): -------->>
+LOG(2017-08-11T20:40:21.637218, 2968, 00312428:): Core session started on 2017-08-11T20:40:21.637218 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T20:40:21.637218, 2968, 00312428:): Debug logging disabled
+LOG(2017-08-11T20:40:21.650219, 2968, 00312428:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T20:40:21.650219, 2968, 00312428:): Device Camera-1 set as default camera.
+LOG(2017-08-11T20:40:21.650219, 2968, 00312428:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T20:40:21.775226, 2968, 00312428:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T20:40:30.032698, 2968, 00312428:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T20:40:30.032698, 2968, 00312428:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T20:40:30.055700, 2968, 00312428:): Device Camera-1 initialized.
+LOG(2017-08-11T20:40:30.055700, 2968, 00312428:): Camera device set to Camera-1
+LOG(2017-08-11T20:45:16.654092, 6868, 0038FD00:): -------->>
+LOG(2017-08-11T20:45:16.670093, 6868, 0038FD00:): Core session started on 2017-08-11T20:45:16.670093 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T20:45:16.670093, 6868, 0038FD00:): Debug logging disabled
+LOG(2017-08-11T20:45:16.776099, 6868, 0038FD00:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T20:45:16.776099, 6868, 0038FD00:): Device Camera-1 set as default camera.
+LOG(2017-08-11T20:45:16.776099, 6868, 0038FD00:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T20:45:17.544143, 6868, 0038FD00:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T20:45:25.777614, 6868, 0038FD00:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T20:45:25.777614, 6868, 0038FD00:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T20:45:25.799615, 6868, 0038FD00:): Device Camera-1 initialized.
+LOG(2017-08-11T20:45:25.799615, 6868, 0038FD00:): Camera device set to Camera-1
+LOG(2017-08-11T20:53:32.126432, 8084, 0042F9D8:): -------->>
+LOG(2017-08-11T20:53:32.130432, 8084, 0042F9D8:): Core session started on 2017-08-11T20:53:32.130432 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T20:53:32.130432, 8084, 0042F9D8:): Debug logging disabled
+LOG(2017-08-11T20:53:32.143433, 8084, 0042F9D8:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T20:53:32.143433, 8084, 0042F9D8:): Device Camera-1 set as default camera.
+LOG(2017-08-11T20:53:32.143433, 8084, 0042F9D8:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T20:53:32.251439, 8084, 0042F9D8:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T20:53:40.419906, 8084, 0042F9D8:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T20:53:40.419906, 8084, 0042F9D8:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T20:53:40.441907, 8084, 0042F9D8:): Device Camera-1 initialized.
+LOG(2017-08-11T20:53:40.441907, 8084, 0042F9D8:): Camera device set to Camera-1
+LOG(2017-08-11T21:04:14.359165, 7720, 002E2968:): -------->>
+LOG(2017-08-11T21:04:14.361165, 7720, 002E2968:): Core session started on 2017-08-11T21:04:14.361165 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T21:04:14.361165, 7720, 002E2968:): Debug logging disabled
+LOG(2017-08-11T21:04:14.369166, 7720, 002E2968:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T21:04:14.369166, 7720, 002E2968:): Device Camera-1 set as default camera.
+LOG(2017-08-11T21:04:14.369166, 7720, 002E2968:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T21:04:14.487173, 7720, 002E2968:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T21:04:23.027661, 7720, 002E2968:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T21:04:23.028661, 7720, 002E2968:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T21:04:23.049662, 7720, 002E2968:): Device Camera-1 initialized.
+LOG(2017-08-11T21:04:23.049662, 7720, 002E2968:): Camera device set to Camera-1
+LOG(2017-08-11T21:10:25.920417, 5524, 00302968:): -------->>
+LOG(2017-08-11T21:10:25.924418, 5524, 00302968:): Core session started on 2017-08-11T21:10:25.924418 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T21:10:25.925418, 5524, 00302968:): Debug logging disabled
+LOG(2017-08-11T21:10:25.937418, 5524, 00302968:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T21:10:25.938418, 5524, 00302968:): Device Camera-1 set as default camera.
+LOG(2017-08-11T21:10:25.938418, 5524, 00302968:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T21:10:26.045424, 5524, 00302968:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T21:10:34.308897, 5524, 00302968:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T21:10:34.308897, 5524, 00302968:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T21:10:34.329898, 5524, 00302968:): Device Camera-1 initialized.
+LOG(2017-08-11T21:10:34.329898, 5524, 00302968:): Camera device set to Camera-1
+LOG(2017-08-11T21:16:04.349774, 9120, 003CF9D8:): -------->>
+LOG(2017-08-11T21:16:04.353775, 9120, 003CF9D8:): Core session started on 2017-08-11T21:16:04.353775 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T21:16:04.353775, 9120, 003CF9D8:): Debug logging disabled
+LOG(2017-08-11T21:16:04.365775, 9120, 003CF9D8:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T21:16:04.365775, 9120, 003CF9D8:): Device Camera-1 set as default camera.
+LOG(2017-08-11T21:16:04.365775, 9120, 003CF9D8:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T21:16:04.488782, 9120, 003CF9D8:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T21:16:12.721253, 9120, 003CF9D8:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T21:16:12.721253, 9120, 003CF9D8:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T21:16:12.745255, 9120, 003CF9D8:): Device Camera-1 initialized.
+LOG(2017-08-11T21:16:12.745255, 9120, 003CF9D8:): Camera device set to Camera-1
+LOG(2017-08-11T21:19:36.909932, 328, 0042F9D8:): -------->>
+LOG(2017-08-11T21:19:36.911932, 328, 0042F9D8:): Core session started on 2017-08-11T21:19:36.911932 by dzmitry123 on DZMITRY123-PC
+LOG(2017-08-11T21:19:36.911932, 328, 0042F9D8:): Debug logging disabled
+LOG(2017-08-11T21:19:36.918933, 328, 0042F9D8:): Device Camera-1 loaded from PrincetonInstruments and labeled as Camera-1
+LOG(2017-08-11T21:19:36.918933, 328, 0042F9D8:): Device Camera-1 set as default camera.
+LOG(2017-08-11T21:19:36.918933, 328, 0042F9D8:): Starting initialization sequence for 1 devices...
+LOG(2017-08-11T21:19:37.017938, 328, 0042F9D8:): Device Camera-1 message: PVCAM VERSION: 2.8.10
+LOG(2017-08-11T21:19:45.220407, 328, 0042F9D8:): Device Camera-1 message: EEV CCD97B
+LOG(2017-08-11T21:19:45.221407, 328, 0042F9D8:): Device Camera-1 message: This Camera has Em Gain
+LOG(2017-08-11T21:19:45.245409, 328, 0042F9D8:): Device Camera-1 initialized.
+LOG(2017-08-11T21:19:45.245409, 328, 0042F9D8:): Camera device set to Camera-1
